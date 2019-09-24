@@ -44,9 +44,15 @@ There end to end offering enables you to go off grid or part of it. With solar P
 
 
 #### References
-https://cleantechnica.com/2019/05/18/what-is-tesla/
+<https://cleantechnica.com/2019/05/18/what-is-tesla/>
 
 ## E.Datacenter.6:
+
+### Rack Cooling with rear door Heat Exchanger
+With increasing data center energy densities air flow cooling have thier limitations and the next level of cooling like liquid cooling plays a big role. RDHx or Rear Door Heat Exchanger is one such technology.Its a passive device as there are no moving parts just a cooling water flow. This device is installed on server rack airflow outlet. This device resembles automobile radiator. The hot airflow from servers are directed through device by servers fans. Once heat is exchanged in device the water takes out heat with it. This is very efficient as this doesn't required seprate electrical source to operate and can work on less cooler water to take heat out.
+
+#### References
+<https://datacenters.lbl.gov/sites/all/files/rdhx-doe-femp.pdf>
 
 ## E.Datacenter.7:
 This article summarizies well the leaps already made to conserve world's power used to data center especially the component that is used to cool down or do other activities that are non core. This is measured by PUE (Power usage efficiency) and various techniques are used to achive the good efficiency. Even the small unnessary component like video connectors, blinking ligts can result in considerable savings over a peroid of time in data centers. This has resulted in PUE from 2 to almost towards 1.12. Hyperscale datacenters are not only ore efficient in terms of processing but also very efficient in terms of operational costs. Currently it seems it will be really difficult to go further on make things more efficients but with new technology advancements things can ne improved further. Artifical intellagence and diverting heat generated for other essential usage gives some hope.
@@ -55,7 +61,14 @@ This article summarizies well the leaps already made to conserve world's power u
 
 ### Wells Fargo Outage
 
-In Feb-2019, Wells Fargo was hit with data center outage that impacted lot of customers. It impacted mobile apps, ATMs, online banking customer. It's difficult to access the loss in terms of dollar amount because such analysis need lot of internal data that only Bank or Cloud owner have. Also its difficult to assign value to the loss in reputation that Bank have due to such recurring incidents. Poneman institue published a report in 2016 estimating the cost of Data Center outages in general.
+In Feb-2019, Wells Fargo was hit with data center outage that impacted lot of customers. It impacted mobile apps, ATMs, online banking customer. It's difficult to access the loss in terms of dollar amount because such analysis need lot of internal data that only Bank or Cloud owner have. Also its difficult to assign value to the loss in reputation that Bank have due to such recurring incidents. Poneman institue published a report in 2016 estimating the cost of Data Center outages in general and considered following things contributing to cost impact.
+* Detection Cost,
+* Containtment Cost,
+* Productivity loss cost,
+* Reputation loss
+* Recovery Cost
+* Lost Revenues
+
 
 
 #### References
