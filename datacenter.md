@@ -52,3 +52,12 @@ https://cleantechnica.com/2019/05/18/what-is-tesla/
 This article summarizies well the leaps already made to conserve world's power used to data center especially the component that is used to cool down or do other activities that are non core. This is measured by PUE (Power usage efficiency) and various techniques are used to achive the good efficiency. Even the small unnessary component like video connectors, blinking ligts can result in considerable savings over a peroid of time in data centers. This has resulted in PUE from 2 to almost towards 1.12. Hyperscale datacenters are not only ore efficient in terms of processing but also very efficient in terms of operational costs. Currently it seems it will be really difficult to go further on make things more efficients but with new technology advancements things can ne improved further. Artifical intellagence and diverting heat generated for other essential usage gives some hope.
 
 ## E.Datacenter.8:
+
+### Wells Fargo Outage
+
+In Feb-2019, Wells Fargo was hit with data center outage that impacted lot of customers. It impacted mobile apps, ATMs, online banking customer. It's difficult to access the loss in terms of dollar amount because such analysis need lot of internal data that only Bank or Cloud owner have. Also its difficult to assign value to the loss in reputation that Bank have due to such recurring incidents. Poneman institue published a report in 2016 estimating the cost of Data Center outages in general.
+
+
+#### References
+<https://www.ciodive.com/news/wells-fargos-outage-puts-focus-on-data-management-modernization/548144/>
+<https://www.vertiv.com/globalassets/documents/reports/2016-cost-of-data-center-outages-11-11_51190_1.pdf>
